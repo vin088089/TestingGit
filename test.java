@@ -1,3 +1,1 @@
-java 
-code nhi aata 
-python to easy tha 
+test kar ne me time laga rha hai
